@@ -6,12 +6,13 @@
 1.uvoptx
 1.uvguix.l
 *.l
-/USER/*.uvoptx
-/USER/*.l
+
 
 /USER/
 !*.c   
 !*.h  
+!*.uvprojx
+!JLinkSettings.ini
    *.log  
    *.plg  
    *.bak  
