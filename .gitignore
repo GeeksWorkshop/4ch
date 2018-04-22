@@ -1,0 +1,34 @@
+/USER/Objects/
+1.uvguix.l
+
+1.uvoptx
+1.uvguix.l
+1.uvoptx
+1.uvguix.l
+*.l
+/USER/*.uvoptx
+/USER/*.l
+
+/USER/
+!*.c   
+!*.h  
+   *.log  
+   *.plg  
+   *.bak  
+   *.dep  
+   *.uvgui.*  
+   JLinkLog.txt  
+   *.o  
+   *.d  
+   *.crf  
+   *.tra  
+   *.axf  
+   *.hex  
+   *.lnp  
+   *.sct  
+   *.__i  
+   *.htm  
+JLinkLog.txt
+JLinkLog.txt
+*.map
+1.uvguix.sheng
