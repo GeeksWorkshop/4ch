@@ -7,6 +7,34 @@
 1.uvguix.l
 *.l
 
+
+*.bak 
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj 
+*.omf
+*.obj 
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d 
+*.axf
+*.tra
+*.dep
+*.iex
+*.sct
+*.htm
+*.map
+
+
+
+！*.opt
 /Objects/
 
 !*.c   
